@@ -16,6 +16,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+## Planning references
+- [Roles and personas](./octoacme-roles-and-personas.md)
+- [RACI and role handoffs](./octoacme-raci-and-handoffs.md)
+- [Release readiness checklist](./octoacme-release-readiness-checklist.md)
+
 ## Backlog Item Template
 - Title:
 - Description:
@@ -41,3 +46,4 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Acceptance criteria ownership and approvals aligned using the [RACI and handoffs](./octoacme-raci-and-handoffs.md)

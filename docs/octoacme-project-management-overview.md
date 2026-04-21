@@ -9,12 +9,12 @@ Applies to all cross-functional projects that deliver product features, services
 ## Principles
 - Customer-first: prioritize customer value and usability.
 - Iterative delivery: deliver small, testable increments.
-- Clear ownership: each project has a named Project Manager (PM) and Product Lead.
+- Clear ownership: each project has a named Project Manager (PjM) and Product Manager (PdM).
 - Data-informed decisions: measure impact and iterate based on evidence.
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
+- Project Manager (PjM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
@@ -36,7 +36,7 @@ Applies to all cross-functional projects that deliver product features, services
 5. Close & Retrospective: capture learnings and next steps.
 
 ## Communication Cadence
-- Weekly sync between PM + PdM
+- Weekly sync between Project Manager (PjM) and Product Manager (PdM)
 - Twice-weekly standups for delivery team (or as agreed)
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed

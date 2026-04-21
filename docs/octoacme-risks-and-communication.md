@@ -38,5 +38,5 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
+- Team-level -> Project Manager (PjM) -> Product Manager (PdM) -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call

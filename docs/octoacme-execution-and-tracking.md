@@ -8,6 +8,11 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
 
+## Role and ownership references
+- [Roles and personas](./octoacme-roles-and-personas.md)
+- [RACI and role handoffs](./octoacme-raci-and-handoffs.md)
+- [Release readiness checklist](./octoacme-release-readiness-checklist.md)
+
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
 - Pull Request workflow:
@@ -30,7 +35,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
-- Level 2: PM escalates to Product Lead and dependent teams
+- Level 2: Project Manager (PjM) escalates to Product Manager (PdM) and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
 
 ## Execution Checklist
@@ -38,3 +43,4 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Test strategy and sign-off ownership are clear using the [RACI and handoffs](./octoacme-raci-and-handoffs.md)

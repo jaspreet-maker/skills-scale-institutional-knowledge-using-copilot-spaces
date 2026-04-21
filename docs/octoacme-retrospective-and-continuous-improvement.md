@@ -19,7 +19,7 @@ After each sprint, release, or important milestone. Also after incidents.
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
-- Review outstanding actions in the weekly PM sync
+- Review outstanding actions in the weekly Project Manager (PjM) sync
 
 ## Example Action Item Template
 - Title:
